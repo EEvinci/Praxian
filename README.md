@@ -29,3 +29,5 @@ Praxian 取意于 *praxis*，即把知识付诸实践；`ian` 的结尾呼应 Ob
 [博客](https://eevinci.github.io/) · [GitHub](https://github.com/EEvinci)
 
 文章与个人媒体保留作者权利；引用材料的权利归原作者。
+
+新的阅读方向包括心理学与哲学，分类见 [标签词表](Atlas/标签词表.md)。常见英文与口语说法见 [关键词入口](Atlas/关键词入口.md)。考研数学另设 [MathLab · 数学研习室](MathLab/README.md)。
