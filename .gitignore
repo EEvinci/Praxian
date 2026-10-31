@@ -1,0 +1,17 @@
+# Public repository: only explicitly reviewed paths are included.
+/*
+!/.gitignore
+!/README.md
+!/AGENTS.md
+!/标签库.md
+!/00 使用说明/
+/00 使用说明/*
+!/00 使用说明/公私分库与发布约定.md
+!/07 模板/
+/07 模板/*
+!/07 模板/知识笔记模板.md
+!/05 资料/
+/05 资料/*
+!/05 资料/文章/
+/05 资料/文章/*
+!/05 资料/文章/品味如何培养：从欣赏好作品到做出好作品.md
